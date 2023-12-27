@@ -1,7 +1,7 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Chanuka Dilshan</h1>
-<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
+<h3 align="center"> IT Student | Exploring the Boundless World of Technology</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Chanukaa2002&label=Profile%20views&color=0e75b6&style=flat" alt="Chanukaa2002" /> </p>
 
 <table align="center">
 <tr border="none">
@@ -20,7 +20,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  <img align="center" alt="Coding" width="450" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/full/workbench.svg">
 
 
   </td>
@@ -52,9 +52,9 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/kaveendinethma" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
-<a href="https://stackoverflow.com/users/22345746/kaveen-dinethma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaveen-dinethma" height="50" width="50" /></a>
+<a href="https://stackoverflow.com/users/22345746/chnuakadilshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaveen-dinethma" height="50" width="50" /></a>
 <a href="https://fb.com/kaveen dinethma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /></a>
-<a href="https://www.instagram.com/kavee_dineth/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="kavee_dineth" height="50" width="50" /></a>
+<a href="https://www.instagram.com/chanuka_dilshann/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="kavee_dineth" height="50" width="50" /></a>
 </p>
 
 ---
