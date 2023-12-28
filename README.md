@@ -4,6 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Chanukaa2002&label=Profile%20views&color=0e75b6&style=flat" alt="Chanukaa2002" /> </p>
 
 ---
+<table>
 <tr border="none">
 <td width="50%" align="left">
 
@@ -21,9 +22,7 @@
 <td width="50%" align="center">
 
   <img align="center" alt="Coding" width="450" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/full/workbench.svg">
-
-
-  </td>
+</td>
 </tr>
 </table>
 
