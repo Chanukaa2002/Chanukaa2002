@@ -47,7 +47,7 @@
 </table>
 ---
 
-<h3 align="center">Connect with me:</h3>
+##<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/chanuka-dilshan-21a076223?trk=contact-info" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="chanukadilshan" height="50" width="50" /></a>
 <a href="https://stackoverflow.com/users/22144324/chanuka-dilshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="chanuka-dilshan" height="50" width="50" /></a>
