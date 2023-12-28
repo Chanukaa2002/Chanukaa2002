@@ -21,7 +21,7 @@
 </td>
 <td width="50%" align="center">
 
-![hippo](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)
+![hippo](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC.gif)
 
 </td>
 </tr>
