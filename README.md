@@ -3,8 +3,7 @@
 <h3 align="center"> IT Student | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Chanukaa2002&label=Profile%20views&color=0e75b6&style=flat" alt="Chanukaa2002" /> </p>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<table align="center">
+---
 <tr border="none">
 <td width="50%" align="left">
 
@@ -28,8 +27,7 @@
 </tr>
 </table>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
+---
 <h3 align="center">My Statistics:</h3>
 <p align="center">
 <table align="center">
@@ -47,8 +45,7 @@
   </td>
 </tr>
 </table>
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+---
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -59,7 +56,7 @@
 <a href="https://www.instagram.com/chanuka_dilshann/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="kavee_dineth" height="50" width="50" /></a>
 </p>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+---
 
 <h3 align="center">Languages and Tools:</h3>
 
