@@ -21,8 +21,8 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
-<a>https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC</a>
+  <video align="center" alt="Coding" width="450" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
+
 </td>
 </tr>
 </table>
