@@ -3,6 +3,7 @@
 <h3 align="center"> IT Student | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Chanukaa2002&label=Profile%20views&color=0e75b6&style=flat" alt="Chanukaa2002" /> </p>
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
@@ -17,7 +18,6 @@
 
 - ⚡ Fun fact **Call me as Chanux**
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </td>
 <td width="50%" align="center">
 
