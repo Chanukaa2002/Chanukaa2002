@@ -1,3 +1,4 @@
+<script src="https://kit.fontawesome.com/76e7314979.js" crossorigin="anonymous"></script>
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Chanuka Dilshan</h1>
 <h3 align="center"> IT Student | Exploring the Boundless World of Technology</h3>
@@ -57,7 +58,7 @@
 <a href="https://www.hackerrank.com/@mchanuka72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mchanuka72" height="50" width="50" /></a>
 <a href="https://www.instagram.com/chanuka_dilshann/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="kavee_dineth" height="50" width="50" /></a>
 <!-- Medium-->
-  <a href="https://medium.com/@Chanuka72" target="blank"><img align="center" src="https://drive.google.com/file/d/1bCvn8fuvz9QBaQDeELeA7ZdJFjwLUvrD/view?usp=drive_link" alt="kavee_dineth" height="50" width="50" /></a>
+  <a href="https://medium.com/@Chanuka72" target="blank"><i class="fa-brands fa-medium"  height="50" width="50" ></i></a>
 </p>
 
 ---
