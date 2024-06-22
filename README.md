@@ -1,4 +1,3 @@
-<script src="https://kit.fontawesome.com/76e7314979.js" crossorigin="anonymous"></script>
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Chanuka Dilshan</h1>
 <h3 align="center"> IT Student | Exploring the Boundless World of Technology</h3>
