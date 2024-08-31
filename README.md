@@ -8,11 +8,11 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🌱 I’m currently learning **PHP,Java**
+- 🌱 I’m currently learning **Java,Spring boot**
 
 - 🧑‍🎓 I’m an Undergraduate at **NIBM**
 
-- 💬 Ask me about **C, JS, C#**
+- 💬 Ask me about **Java, C#**
 
 - 📫 How to reach me **mchanuka72@gmail.com**
 
