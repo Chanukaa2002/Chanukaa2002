@@ -97,7 +97,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postman,vscode" />
-    <img src="https://skillicons.dev/icons?i=visualstudio,idea" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,idea,docker" />
   </a>
 </p>
 
