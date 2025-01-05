@@ -8,7 +8,7 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **Node js & Typescripts**
 
 - 🧑‍🎓 I’m an Undergraduate at **NIBM**
 
