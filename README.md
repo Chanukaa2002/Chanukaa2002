@@ -34,7 +34,7 @@
 <tr border="none">
 <td width="50%" align="center">
 
-  <![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chanukaa2002&show_icons=true&theme=radical)
   <br></br>
  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Chanukaa2002&theme=dark&hide_border=false" /> 
 </td>
