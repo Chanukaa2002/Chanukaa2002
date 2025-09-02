@@ -71,38 +71,18 @@
     <img src="https://skillicons.dev/icons?i=java,python,javascript,c,cs" />
     <img src="https://skillicons.dev/icons?i=php,dart,kotlin" />
   </a>
-</p>
-
-## 🌐 **Web Development**
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nodejs,spring,tailwind" />
   </a>
-</p>
-
-## 📱 **Mobile Development**
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,kotlin,androidstudio" />
   </a>
-</p>
-
-## 🗄️ **Database Technologies**
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
   </a>
-</p>
-
-## ☁️ **Cloud & Infrastructure**
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,docker" />
   </a>
-</p>
-
-## 🛠️ **Development Environment**
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,idea,visualstudio,postman" />
     <img src="https://skillicons.dev/icons?i=git,npm,linux,arduino" />
