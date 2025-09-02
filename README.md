@@ -64,8 +64,6 @@
 ---
 
 # 💻 **Tech Stack & Skills**
-
-## 🚀 **Core Programming Languages**
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,javascript,c,cs" />
